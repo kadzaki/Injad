@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="numbers_labels">
+		<item>Ambulance</item>
+		<item>Pompiers</item>
+		<item>Police</item>
+		<item>Gendarmerie Royale</item>
+		<item>S.O.S Médcin Casablanca</item>
+		<item>S.O.S Médcin Rabat</item>
+		<item>Mondial assistance</item>
+		<item>Maroc assistance</item>
+		<item>Centre antipoison</item>
+		<item>Etat des routes</item>
+	</string-array>
+	
+	<string-array name="numbers">
+		<item>15</item>
+		<item>15</item>
+		<item>19</item>
+		<item>177</item>
+		<item>0522444444</item>
+		<item>0537202020</item>
+		<item>0522313150</item>
+		<item>0522303030</item>
+		<item>0537686464</item>
+		<item>0537711717</item>
+	</string-array>
+	
+	<string-array name="soins_labels">
+		<item>L\'étouffement</item>
+		<item>Le saignement</item>
+		<item>L\'inconscience</item>
+		<item>L\'arrêt cardiaque</item>
+		<item>Le malaise cardiaque</item>
+	</string-array>
+	
+	<string-array name="soins">
+		<item>\
+			"&lt;b>1.&lt;/b> Donnez un maximum de 5 claques dans le dos de la victime. Après chaque claque, vérifiez si tout rentre dans l'ordre.&lt;br />&lt;br />"
+			"&lt;b>2.&lt;/b> Si les claques dans le dos n'ont pas d'effet, effectuez un maximum de 5 compressions abdominales.&lt;br />&lt;br />"
+			"&lt;b>3.&lt;/b> Si le problème n'est toujours pas résolu, alternez 5 claques dans le dos et 5 compressions abdominales.&lt;br />&lt;br />"
+			"&lt;b>4.&lt;/b> Si la victime perd connaissance, posez-la délicatement au sol et alertez immédiatement les secours, puis entreprenez une réanimation cardio-pulmonaire en commençant par effectuer 30 compressions thoraciques.&lt;br />&lt;br />"
+			"&lt;b>5.&lt;/b> Poursuivez la réanimation jusqu'à ce que les secours arrivent ou que la victime reprenne une respiration normale."
+		</item>
+		<item>\
+			"&lt;b>1.&lt;/b> Evitez, si possible, tout contact avec le sang de la victime ; demandez-lui de comprimer elle-même sa blessure.&lt;br />&lt;br />"
+			"&lt;b>2.&lt;/b> Sinon, exercez une pression directement sur la plaie avec vos mains protégées (gants jetables, sac plastique ou linge).&lt;br />&lt;br />"
+			"&lt;b>3.&lt;/b> Allongez la victime en position horizontale.&lt;br />&lt;br />"
+			"&lt;b>4.&lt;/b> Demandez à une personne présente d'alerter les secours ou faites-le vous-même si vous êtes seul.&lt;br />&lt;br />"
+			"&lt;b>5.&lt;/b> Si la plaie continue de saigner, comprimez-la encore plus fermement.&lt;br />&lt;br />"
+			"&lt;b>6.&lt;/b> Poursuivez la compression sur la plaie jusqu'à l'arrivée des secours.&lt;br />&lt;br />"
+			"&lt;b>7.&lt;/b> Si vous devez vous libérer (par exemple pour aller donner l'alerte), appliquez un tampon relais pour remplacer votre compression manuelle.&lt;br />&lt;br />"
+			"&lt;b>8.&lt;/b> Lavez-vous les mains après avoir effectué ces premiers secours."
+		</item>
+		<item>\
+			"&lt;b>1.&lt;/b> Vérifiez que la victime ne réagit pas.&lt;br />&lt;br />"
+			"&lt;b>2.&lt;/b> Libérez les voies aériennes.&lt;br />&lt;br />"
+			"&lt;b>3.&lt;/b> Vérifiez que la victime respire.&lt;br />&lt;br />"
+			"&lt;b>4.&lt;/b> Tournez la victime sur le côté en position latérale de sécurité.&lt;br />&lt;br />"
+			"&lt;b>5.&lt;/b> Demandez à quelqu'un d'appeler les secours ; allez chercher de l'aide si vous êtes seul.&lt;br />&lt;br />"
+			"&lt;b>6.&lt;/b> Vérifiez régulièrement la respiration de la victime jusqu'à l'arrivée des secours." 
+		</item>
+		<item>\
+			"&lt;b>1.&lt;/b> Vérifiez que la victime ne réagit pas et ne respire pas normalement.&lt;br />&lt;br />"
+			"&lt;b>2.&lt;/b> Demandez à quelqu'un de prévenir les secours d'urgence et d'apporter immédiatement un défibrillateur automatisé externe (s'il est disponible). Faites tout cela vous-même si vous êtes seul.&lt;br />&lt;br />"
+			"&lt;b>3.&lt;/b> Commencez par effectuer 30 compressions thoraciques.&lt;br />&lt;br />"
+			"&lt;b>4.&lt;/b> Pratiquez ensuite 2 insufflations.&lt;br />&lt;br />"
+			"&lt;b>5.&lt;/b> Alternez 30 compressions thoraciques et 2 insufflations.&lt;br />&lt;br />"
+			"&lt;b>6.&lt;/b> Continuez la réanimation jusqu'à ce que les secours d'urgence arrivent et poursuivent la réanimation, ou que la victime reprenne une respiration normale."
+		</item>
+		<item>\
+			"&lt;b>1.&lt;/b> Ne sous-estimez pas la situation : même si la victime prétend que ce n'est pas grave, elle doit immédiatement être prise en charge.&lt;br />&lt;br />"
+			"&lt;b>2.&lt;/b> Posez des questions à la victime : depuis combien de temps dure ce malaise ? Est-ce la première fois ? La victime a-t-elle été hospitalisée ou prend-elle des médicaments pour cela ?&lt;br />&lt;br />"
+			"&lt;b>3.&lt;/b> Demandez à une personne présente d'alerter immédiatement les secours (le Samu-Centre 15), ou faites-le vous-même si vous êtes seul.&lt;br />&lt;br />"
+			"&lt;b>4.&lt;/b> Mettez la victime au repos dans une position confortable (allongée ou, si elle le souhaite, en position semi-assise ou assise).&lt;br />&lt;br />"
+			"&lt;b>5.&lt;/b> Vérifiez régulièrement que la victime est consciente et respire normalement."
+		</item>
+	</string-array>
+</resources>

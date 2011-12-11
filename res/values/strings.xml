@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<string name="app_name">INJAD</string>
+    <string name="main_title">INJAD</string>
+    
+    <string name="numbers_label">Numéros utiles</string>
+    <string name="aide_label">Premiers soins</string>
+    <string name="about_label">A prôpos</string>
+    
+    <string name="about_title">A prôpos d\'INJAD</string>
+		<string name="about_text">\
+			INJAD est une application destinée aux cas d\'urgences, elle simplifie l\'accès au numéros d\'urgences au Maroc et inclut un guide des premiers soins. 
+		</string>
+		
+		<string name="numbers_title">Numéros utiles</string>
+		<string name="soins_title">Premiers soins</string>
+</resources>
